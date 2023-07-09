@@ -27,4 +27,8 @@ public class S4_3986 {
         }
         System.out.println(answer);
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0064350ced2cd9c3bd589df3b2bae7ac55276c50
